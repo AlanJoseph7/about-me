@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alan Joseph Kurian</h1>
-<h3 align="center">A programmer aspiring to work in the aviation sector.</h3>
+<h3 align="center">A programmer aspiring to work in the aviation sector or in a software development firm.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alanjoseph7&label=Profile%20views&color=0e75b6&style=flat" alt="alanjoseph7" /> </p>
 
